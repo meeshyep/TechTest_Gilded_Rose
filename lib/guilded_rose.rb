@@ -87,5 +87,5 @@ class GildedRose
       method = get_method_rate(item)
       self.send(method, item)
     end
-
-  end
+    
+end
